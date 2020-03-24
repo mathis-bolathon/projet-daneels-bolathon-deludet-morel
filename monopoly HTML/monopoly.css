@@ -1,0 +1,56 @@
+body
+{
+    background-color:#FFF0F5;
+
+}
+
+p
+{
+	color: #00003F;
+	font-size: 45px;
+	font-family: "Trebuchet MS", Arial, sans-serif;
+	text-decoration: underline;
+	text-align: center;
+	font-weight: bold;
+}
+
+img.logomonopoly
+
+{
+	width: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+img.BoardGamePatentMagie
+{
+	width: 580px;
+	height: 865px;
+	margin-right: 50px ;
+}
+
+img.DarrowPage1
+{
+	width: 672px;
+	height: 1088px;
+}
+
+
+h2
+{
+	color: #00003F;
+	font-size: 40px;
+	text-decoration: underline;
+	text-align: left;
+}
+
+h1
+{
+	color: #00003F;
+	font-size: 30px;
+	text-align: left;
+}
+
+
