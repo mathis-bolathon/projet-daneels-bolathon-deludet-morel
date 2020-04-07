@@ -1,0 +1,33 @@
+Le jeu est jouable à 3 et uniquement à 3 dans un premier temps, et il n’y a qu’un seul dé 
+
+ 
+
+I-Le Monopoly ( Commande) 
+
+ 
+
+-Créer une fonction “ProprieteJoueur” qui prend en paramètre le numero d’un joueur et celui d’une case et qui définit la case en tant que propriété du joueur à l’aide d’une variable pX Goblae, X étant le numéro de la case, et en lui Assignant 1,2 ou 3 en fonction du joueur et qui est a 0 si celle-ci n’est a personne. 
+
+-Créer un fonction “taxe” qui prend en paramètre un numéro de case et qui renvoie le prix à payer par le joueur. 
+
+Créer une fonction “Argent” qui prend en paramètre un numéro de joueur et qui renvoie son l’argent qu’il possède (utiliser une variable globale) 
+
+- Créer une fonction “Achat” qui prend en paramètre le numéro d’un joueur, et le numéro d’une case qui vérifie (via l’appele de la fonction “Argent”) si le joueur  
+
+-créer une fonction “propriété” qui prend en paramètre un numéro de case et un numéro correspondant au joueur 1,2 ou 3, et qui : 
+
+Si la case n’appartient à personne appelle la fonction achat  
+
+Si la case appartient à un joueur appelle la fonction “taxe” et enlève au joueur l’argent correspondant  
+
+ 
+
+ 
+
+ 
+
+-créer une fonction qui dit au joueur que c’est son tour de jouer et qui lui demande de lancer le dé en appuyant sur un bouton, renvoie un nombre aléatoire entre 1 et 6. 
+
+- 
+
+ 
